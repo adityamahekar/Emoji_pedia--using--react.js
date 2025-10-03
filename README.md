@@ -21,7 +21,7 @@ It demonstrates **React components, props, mapping arrays, and modular code stru
 
 ---
 
-# ⚛️ React Installation & Application Setup
+## ⚛️ React Installation & Application Setup
 
 ## 📦 Installation
 
@@ -30,7 +30,8 @@ Install the node modules
 ```bash
 npm install
 ```
-```bash
+
 Launch your React project in your browser
+```bash
 npm run dev
 ```
