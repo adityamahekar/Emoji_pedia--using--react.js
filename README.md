@@ -1,4 +1,4 @@
-# 📖 Emojipedia (React.js Project)
+# 😉📖 Emojipedia (React.js Project)
 
 Emojipedia is a simple **React.js project** that displays emoji meanings in a fun and interactive way.  
 It demonstrates **React components, props, mapping arrays, and modular code structure**.
