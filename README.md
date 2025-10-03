@@ -7,7 +7,7 @@ It demonstrates **React components, props, mapping arrays, and modular code stru
 
 ## 📸 Screenshots  
 
-| Home View | Emoji Entries |
+| Emojipedia 1 | Emojipedia 2 |
 |-----------|---------------|
 | ![Home](imgg/ej1.png) | ![Emoji Entries](imgg/ej2.png) |
 
