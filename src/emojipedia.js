@@ -157,5 +157,5 @@ const emojipedia = [
     meaning: "Represents happiness, positivity, diversity, or hope.",
   },
 ];
-
+ 
 export default emojipedia;
